@@ -1,4 +1,5 @@
-# BehaviorTree
+<h1 align="center">BehaviorTree</h1>
+
 
 - 官方文档 https://www.behaviortree.dev/docs/intro
 - groot https://www.behaviortree.dev/groot
