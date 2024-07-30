@@ -64,7 +64,7 @@ __不同点__
 
 #### ControlNode_Fallback(回退)
 
-回退节点有两种类型：__Fallback__和__ReactiveFallback__ 
+回退节点有两种类型：__Fallback__ 和 __ReactiveFallback__ 
 
 __相同点__
 
